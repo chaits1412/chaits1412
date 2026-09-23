@@ -1,7 +1,10 @@
 # Chaitali Ranalkar
 
 **Data analyst — Python · SQL · Power BI · Tableau**
-MSc Big Data Analytics · Pune, India · [LinkedIn](https://www.linkedin.com/in/chaitali-ranalkar-1410cr)
+MSc Big Data Analytics · Pune, India
+
+### 🔗 [chaits1412.github.io](https://chaits1412.github.io) — portfolio
+[LinkedIn](https://www.linkedin.com/in/chaitali-ranalkar-1410cr)
 
 I build end-to-end analytics projects: taking a messy business problem all the way from raw data through investigation and root-cause analysis to a recommendation someone can act on. Currently at KKC & Associates LLP.
 
